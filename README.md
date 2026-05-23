@@ -1,2 +1,3 @@
 # Neural kriging with cross-attention network for geospatial mapping of health outcomes
 This repository introduces an open-source deep learning framework designed to generate high-resolution geospatial health maps in data-scarce regions. This tool leverages a scaled-dot-product attention mechanism that dynamically borrows covariate information from neighboring geographic sites, enabling accurate predictions even in locations where direct covariate data is completely unavailable.
+# Source code will become available after manuscript acceptance. 
